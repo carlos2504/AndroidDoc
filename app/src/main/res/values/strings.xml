@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <string name="selected_data">La especialidad seleccionada es: %s\nLa fecha seleccionada es: %s</string>
+    <string-array name="especialidades_array">
+        <item>Dermatología</item>
+        <item>Ginecología</item>
+        <item>Oftalmología</item>
+        <item>Traumatología</item>
+        <item>Urología</item>
+    </string-array>
+    <string name="siguiente">Cita confirmada</string>
+</resources>
